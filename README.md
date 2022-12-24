@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Ahmed Tolba</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devabdotolba&" alt="devabdotolba" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devabdotolba&show_icons=true&locale=en" alt="devabdotolba" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devabdotolba&label=Profile%20views&color=0e75b6&style=flat" alt="devabdotolba" /> </p>
@@ -26,5 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devabdotolba&show_icons=true&locale=en&layout=compact" alt="devabdotolba" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devabdotolba&show_icons=true&locale=en" alt="devabdotolba" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devabdotolba&" alt="devabdotolba" /></p>
 
