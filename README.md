@@ -11,8 +11,8 @@
 	<br />
 	<br /> 
 	<p>
-	also intrested in React </p><img width=40 src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" /></h3>
-
+	also intrested in React <img width=40 src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" /></h3>
+</p>
 
 
 
