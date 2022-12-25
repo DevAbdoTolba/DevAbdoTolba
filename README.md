@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">AI'm Abdulrahman Ahmed Tolba
 
-<h3 align="center">A passionate developer from Egypt, intrested in frontend developing, enjoing pure HTML,CSS and JS.<span> pain <img src=https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/heart-on-fire_2764-fe0f-200d-1f525.gif /> <span>
+<h3 align="center">A passionate developer from Egypt, intrested in frontend developing, enjoing pure HTML,CSS and JS.<br /><span> pain <img src=https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/heart-on-fire_2764-fe0f-200d-1f525.gif />
  <br> also intrested in React <img width=40 src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" /></h3>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/DevAbdotolba)
