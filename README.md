@@ -1,12 +1,51 @@
-<h1 align="center">Hi 👋, I'm Abdulrahman Ahmed Tolba</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+# <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">AI'm Abdulrahman Ahmed Tolba
 
+<h3 align="center">A passionate developer from Egypt, intrested in frontend developing, enjoing pure HTML,CSS and JS.<span> pain <img src=https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/heart-on-fire_2764-fe0f-200d-1f525.gif /> <span>
+ <br> also intrested in React <img width=40 src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" /></h3>
+
+![GitHub User's stars](https://img.shields.io/github/stars/DevAbdotolba)
 ![Profile views](https://gpvc.arturio.dev/DevAbdoTolba)
 
-<a href="https://github.com/DevAbdoTolba">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevAbdoTolba&count_private=true&hide=stars&theme=dark" />
-</a>
-<hr>
+
+
+
+
+<p align="center" >Contact me:</p>
+<p>
+<div align="center">
+	<a href="https://discord.com/users/337682438438387713" rel="nofollow">
+	 	<img alt="Abdo Tolba's Discord account" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://twitter.com/DevAbdoTolba" rel="nofollow">
+  		<img alt="Abdo Tolba's Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
+	</a>
+</div>
+</p>
+
+
+
+
+
+
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
+
+<br/>
+<p align="left">
+  <a href="https://abdotolba-cv.web.app/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DevAbdoTolba&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevAbdoTolba&theme=radical&hide_border=true">		  
+  </a>
+</p>
+<br>
+<p align="center">
+  <a href="http://abdotolba-cv.web.app/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAbdoTolba&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{DevAbdoTolba}/count.svg"></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -27,5 +66,4 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
 
