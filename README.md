@@ -51,7 +51,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{DevAbdoTolba}/count.svg"></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>  <img width="70px" src="https://media.tenor.com/Y5bdzjEvcFIAAAAi/kitty-chase-pixel.gif" />
