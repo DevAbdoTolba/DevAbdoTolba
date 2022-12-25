@@ -1,10 +1,17 @@
 # <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> I'm Abdulrahman Ahmed Tolba
-
-<h3 align="center">A passionate developer from Egypt, intrested in frontend developing, enjoing pure HTML,CSS and JS.<br /><span> pain <img src=https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/heart-on-fire_2764-fe0f-200d-1f525.gif />
- <br> also intrested in React <img width=40 src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" /></h3>
-
+	
 ![GitHub User's stars](https://img.shields.io/github/stars/DevAbdotolba)
 ![Profile views](https://gpvc.arturio.dev/DevAbdoTolba)
+
+<h3 align="center">A passionate developer from Egypt, intrested in frontend developing, enjoing pure HTML,CSS and JS.
+
+<br /><span >  pain 
+	<img src=https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/heart-on-fire_2764-fe0f-200d-1f525.gif /> </span>
+	<br />
+	<br />
+	<br /> 
+	<p>
+	also intrested in React </p><img width=40 src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" /></h3>
 
 
 
@@ -47,7 +54,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{DevAbdoTolba}/count.svg"></p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>  <img width="70px" src="https://media.tenor.com/Y5bdzjEvcFIAAAAi/kitty-chase-pixel.gif" />
 
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
