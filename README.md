@@ -3,7 +3,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/DevAbdotolba)
 ![Profile views](https://gpvc.arturio.dev/DevAbdoTolba)
 
-<h3 align="center">A passionate developer from Egypt, intrested in frontend developing, enjoing pure HTML,CSS and JS.
+<h3 align="center">A passionate developer from Egypt, intrested in frontend developing using react, next and emotionjs, enjoing also backend devolpment 
 
 <br /><span >  pain 
 	<img src="https://em-content.zobj.net/source/noto-emoji-animations/344/heart-on-fire_2764-fe0f-200d-1f525.gif" /> </span>
