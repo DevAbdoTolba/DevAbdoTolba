@@ -2,7 +2,7 @@
 	
 ![GitHub User's stars](https://img.shields.io/github/stars/DevAbdotolba)
 ![Profile views](https://komarev.com/ghpvc/?username=DevAbdoTolba&label=PROFILE+VIEWS)
-<h3 align="center">A passionate developer from Egypt, intrested in frontend developing using react, next and emotionjs, enjoing also backend devolpment 
+<h3 align="center">A passionate developer from Egypt, interested in frontend development using react, next, and emotionjs, enjoying also backend development 
 
 <br /><span >  pain 
 	<img src="https://em-content.zobj.net/source/noto-emoji-animations/344/heart-on-fire_2764-fe0f-200d-1f525.gif" /> </span>
@@ -10,7 +10,7 @@
 	<br />
 	<br /> 
 	<p>
-	also intrested in React <img width=40 src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" /></h3>
+	also interested in React <img width=40 src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" /></h3>
 </p>
 
 
